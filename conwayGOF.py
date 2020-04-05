@@ -1,13 +1,8 @@
 #
-# ps7pr3.py  (Problem Set 7, Problem 3)
 #
 # Conway's Game of Life
 #
-# Computer Science 111  
-#
 
-# IMPORTANT: this file is for your solutions to Problem 3.
-# Your solutions to Problem 2 should go in ps7pr2.py instead.
 
 from ps7pr2 import *
 from gol_graphics import *
